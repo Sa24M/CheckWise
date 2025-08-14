@@ -1,0 +1,11 @@
+flask
+werkzeug
+pandas
+numpy
+scikit-learn
+nltk
+tqdm
+python-dotenv
+flask
+scikit-learn
+numpy
