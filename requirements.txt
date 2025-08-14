@@ -9,3 +9,8 @@ python-dotenv
 flask
 scikit-learn
 numpy
+flask
+gunicorn
+scikit-learn
+pandas
+numpy
