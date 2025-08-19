@@ -92,6 +92,7 @@ Now open <http://127.0.0.1:5000> in your browser.
 3.  Make sure `gunicorn` is listed in `requirements.txt`.
 4.  Deploy 🎉
 
+Site available at : https://checkwise-q5qj.onrender.com
 ------------------------------------------------------------------------
 
 ## 📊 Example Output
